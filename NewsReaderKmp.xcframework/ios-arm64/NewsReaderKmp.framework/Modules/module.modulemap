@@ -1,0 +1,8 @@
+framework module NewsReaderKmp {
+    umbrella header "NewsReaderKmp.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
